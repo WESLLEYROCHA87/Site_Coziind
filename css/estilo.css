@@ -1,0 +1,24 @@
+/* Configurações do Topo */
+
+.bg-topo {
+  background: #00008b;
+}
+
+.btn-orcamento {
+  border: 3px solid #fff;
+  background: none;
+  position: relative;
+  color: #fff;
+  z-index: 1;
+  border-radius: 30px;
+  height: 100%;
+}
+
+.btn-orcamento:hover {
+  color: #00008b;
+  background: #fff;
+  border-color: #fff;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
