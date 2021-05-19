@@ -1,9 +1,13 @@
-/* Configurações do Topo */
-
+/* Configurações do Row Topo */
+.bg-rowTopo{
+  background: rgb(49, 47, 49);
+}
+/* Configurações do Navegador */
 .bg-topo {
   background: #00008b;
 }
 
+/* Configurações do Botão Orçamento Nav */
 .btn-orcamento {
   border: 3px solid #fff;
   background: none;
