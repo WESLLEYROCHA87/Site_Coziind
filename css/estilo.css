@@ -22,14 +22,14 @@
 }
 
 .efeitoLinkDropD:hover {
-  background: #000;
+  background: #00008b;
   transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
 }
 
 /* Configurações do Botão Orçamento Nav */
-.btn-orcamento {
+.btn-contato {
   border: 3px solid #fff;
   background: none;
   position: relative;
@@ -39,7 +39,7 @@
   height: 100%;
 }
 
-.btn-orcamento:hover {
+.btn-contato:hover {
   color: #00008b;
   background: #fff;
   border-color: #fff;
