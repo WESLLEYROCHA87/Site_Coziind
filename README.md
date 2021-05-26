@@ -1,2 +1,2 @@
 # Site_Coziind
- Site Desenvolvido para empresa Cozzind
+Site desenvolvido com Bootstrap, tendo como linguagens HTML, CSS e JS. 
